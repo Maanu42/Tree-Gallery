@@ -1,0 +1,18 @@
+img{
+    width: 500px;
+    height: 400px;
+}
+body{
+    text-align: center;
+}
+.div_1{
+    display: flex;
+   justify-content: center;
+}
+.img_1{
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: darkseagreen
+}
